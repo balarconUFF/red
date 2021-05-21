@@ -6,4 +6,6 @@
 \usepackage{float}
 \usepackage{amssymb,amsthm,amstext,latexsym,amsmath,fullpage,graphicx}
 teste 2
+
+\lim_{x\rightarrow 0} f(x) 
  
